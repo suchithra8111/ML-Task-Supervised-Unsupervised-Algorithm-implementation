@@ -24,8 +24,11 @@ Created scatter plots between variables to further examine their correlation.
 
 ## Visualizations
 *Box plot of Price per Sqft
+
 *Histogram of Price per Sqft
+
 *Correlation Heatmap
+
 *Pairplot of Numerical Columns
 
 ## Conclusion
