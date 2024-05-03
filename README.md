@@ -33,3 +33,16 @@ Created scatter plots between variables to further examine their correlation.
 
 ## Conclusion
 Overall, this analysis provides insights into the distribution of property prices in Bangalore and highlights the effectiveness of various outlier detection methods. The visualizations help in understanding the relationships between different numerical variables and identifying any potential patterns or trends.
+
+### Hypothesis Testing
+This project involves the application of hypothesis testing to scrutinize assertions presented in two distinct scenarios. Hypothesis testing, a statistical methodology, facilitates the extraction of meaningful insights regarding population parameters from limited sample data. By assessing the likelihood of observed outcomes under different hypotheses, it enables informed decision-making processes. Through rigorous analysis, hypothesis testing aids in either corroborating or refuting claims, providing valuable insights into the underlying phenomena. Its utility extends across various domains, serving as a cornerstone for drawing robust conclusions and informing strategic actions based on empirical evidence in diverse contexts.
+
+## Tasks
+
+## Task 1: Child Psychologist's Claim
+
+# .Claim: A child psychologist asserts that the average time working mothers spend talking to their children is at least 11 minutes per day.
+.Sample: A random sample of 1000 working mothers was selected, revealing an average time of 11.5 minutes spent talking to children per day.
+.Population Standard Deviation: Previous research suggests a population standard deviation of 2.3 minutes.
+.Hypothesis Test: A hypothesis test was conducted with a significance level (alpha) of 0.05 to ascertain if there is sufficient evidence to support the psychologist's claim.
+.Additional Note: Since we have a sample size of 1000, which exceeds 30, and we possess information about the sample mean, standard deviation, and aim to compare the sample mean to a population value, a Z-test is appropriate.
