@@ -41,8 +41,15 @@ This project involves the application of hypothesis testing to scrutinize assert
 
 ## Task 1: Child Psychologist's Claim
 
-# .Claim: A child psychologist asserts that the average time working mothers spend talking to their children is at least 11 minutes per day.
-.Sample: A random sample of 1000 working mothers was selected, revealing an average time of 11.5 minutes spent talking to children per day.
-.Population Standard Deviation: Previous research suggests a population standard deviation of 2.3 minutes.
-.Hypothesis Test: A hypothesis test was conducted with a significance level (alpha) of 0.05 to ascertain if there is sufficient evidence to support the psychologist's claim.
-.Additional Note: Since we have a sample size of 1000, which exceeds 30, and we possess information about the sample mean, standard deviation, and aim to compare the sample mean to a population value, a Z-test is appropriate.
+*Claim: A child psychologist asserts that the average time working mothers spend talking to their children is at least 11 minutes per day.
+
+*Sample: A random sample of 1000 working mothers was selected, revealing an average time of 11.5 minutes spent talking to children per day.
+
+*Population Standard Deviation: Previous research suggests a population standard deviation of 2.3 minutes.
+
+*Hypothesis Test: A hypothesis test was conducted with a significance level (alpha) of 0.05 to ascertain if there is sufficient evidence to support the psychologist's claim.
+
+*Additional Note: Since we have a sample size of 1000, which exceeds 30, and we possess information about the sample mean, standard deviation, and aim to compare the sample mean to a p
+opulation value, a Z-test is appropriate.
+
+
