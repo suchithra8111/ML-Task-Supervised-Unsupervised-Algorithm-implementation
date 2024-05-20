@@ -103,5 +103,29 @@ This project aims to develop a reliable data preprocessing system to enhance the
 
 ### Car Price Prediction with Linear Regression
 
- [Dataset](https://drive.google.com/file/d/17IFuoTr7YH9tK34XAws7Gf1NcZSN9lv4/view?usp=drive_link)
-  
+[dataset](https://drive.google.com/file/d/17IFuoTr7YH9tK34XAws7Gf1NcZSN9lv4/view?usp=drive_link)
+
+## Introduction:
+ Welcome to my project on predicting car prices using linear regression! I've analyzed a dataset containing information about different cars, like horsepower, mileage, and more. Using this data, I've built a model to predict car prices based on these features.
+
+## Objective:
+The goal is to develop a model that accurately estimates car prices based on their characteristics. We'll use linear regression to understand how features influence price and create a model for reliable predictions.
+
+## Approach:
+
+*Data Exploration: Understand the dataset's structure and relationships between features and prices.
+
+*Data Preprocessing: Handle missing values, encode categorical variables, and scale numerical features.
+
+*Model Building: Use linear regression to learn the relationship between input features and prices.
+
+*Model Evaluation: Assess the model's performance using metrics like R-squared and Mean Squared Error.
+
+*Prediction: Use the trained model to predict car prices.
+
+## Conclusion:
+This project demonstrates how linear regression can predict car prices accurately. By analyzing the dataset and building a predictive model, we gain insights into factors influencing car prices and provide a practical tool for estimating values.
+
+
+# Clustering Analysis on the Iris Dataset
+This project applies various clustering methods to the Iris dataset to uncover hidden patterns in the data. We use K-means clustering, Agglomerative clustering, and Hierarchical clustering, and evaluate their performance.
