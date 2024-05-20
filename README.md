@@ -52,4 +52,49 @@ This project involves the application of hypothesis testing to scrutinize assert
 *Additional Note: Since we have a sample size of 1000, which exceeds 30, and we possess information about the sample mean, standard deviation, and aim to compare the sample mean to a p
 opulation value, a Z-test is appropriate.
 
+Result: The calculated z-score (6.88) significantly exceeds the critical value (1.645), leading to the rejection of the null hypothesis. Therefore, there is substantial evidence to conclude that working mothers spend more than 11 minutes per day talking to their children.
 
+## Task 2: Coffee Shop's Claim
+
+*Claim: A coffee shop asserts that their average wait time for customers is less than 5 minutes.
+
+*Sample: A sample of 40 customers was observed, yielding an average wait time of 4.6 minutes with a standard deviation of 0.8 minutes.
+
+*Hypothesis Test: A hypothesis test was conducted at a significance level of 0.05 to determine if there is adequate evidence to support the coffee shop's claim.
+
+*Additional Note: Since the sample size is small (typically <30) and the population standard deviation is unknown, a t-test is appropriate for this scenario.
+
+Result: The calculated t-value (-3.16) is lower than the critical t-value (-1.685), leading to the failure to accept the null hypothesis. This indicates sufficient evidence to support the claim that the average wait time for customers is less than 5 minutes at a significance level of 
+0.05
+
+## Conclusion
+Hypothesis testing allows us to evaluate claims or hypotheses about population parameters using sample data. By setting up null and alternative hypotheses and conducting appropriate tests, we can make informed decisions about the validity of these claims. The results of these tests provide valuable insights for decision-making in various fields.
+
+
+
+### DATA PREPROCESSING
+
+# Objective:
+This project aims to develop a reliable data preprocessing system to enhance the quality and usability of datasets for machine learning applications. By addressing issues like missing values, outliers, and inconsistent formatting, we strive to improve data integrity and analysis outcomes.
+
+
+## Key Components:
+*Data Exploration: Understand dataset structure, identify unique values, and perform basic statistical analysis
+
+*Data Cleaning: Handle missing values, remove duplicates, and address outliers.
+
+*Data Analysis: Filter and visualize data based on specific criteria.
+
+*Data Encoding: Convert categorical variables into numerical representations.
+
+*Feature Scaling: Standardize or normalize feature values for improved model performance.
+
+## Next Steps:
+
+*Explore the provided dataset and run the preprocessing script to observe its effects.
+
+*Experiment with different preprocessing techniques to optimize data quality.
+
+*Share feedback or suggest improvements to enhance the preprocessing system.
+
+## Linear Regression
